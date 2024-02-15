@@ -1,3 +1,4 @@
+*.c linguist-language=C
 /* Implementation of the Affine Cipher (Encrpytion + Decryption) was written by P2665421 (Luke Dawson) 50%
    Cracking a given Ciphertext (Brute Force) was written by P2662654 (Harrison Charlesworth) 50% */
 
